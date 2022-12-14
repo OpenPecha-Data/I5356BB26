@@ -1,0 +1,26 @@
+id: I5356BB26
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:06:56.950952+00:00
+last_modified: 2022-12-14 18:06:56.950958+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-068-004
+  eft-text-version: 1.1.8 2020
+  title: Toh_270-The_Seven_Buddhas-v2
+bases:
+  E6CE:
+    source_metadata: null
+    order: 1
+    base_file: E6CE.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
